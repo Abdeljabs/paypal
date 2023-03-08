@@ -4,3 +4,6 @@ developping java apps
 nodeJS applications
 pythn applications
 web applications
+great
+this app is excellent
+this app s excellent for all users
